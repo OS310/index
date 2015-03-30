@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Server: BuggyServer/1.0
+Content-type: text/html
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- Do you really think I'd put something in here? -->
+
+<head>
+<title>Hacking successful</title>
+</head>
+
+<body>
+<h2>WE are:</h2>
+Shuai Yuan, Hao Li, Junhao Li<br /><br />
+Here is the link of buggy server:<a href="webserver.c">BuggyServer</a>!
+</body>
+
+</html>
